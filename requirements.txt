@@ -2,3 +2,4 @@ yfinance
 pandas
 pandas_ta
 requests
+numpy==1.23.5
